@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../exercise1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
